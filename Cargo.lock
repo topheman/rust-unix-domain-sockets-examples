@@ -226,7 +226,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "rust-unix-domain-sockets"
+name = "rust-unix-domain-sockets-examples"
 version = "0.1.0"
 dependencies = [
  "anyhow",

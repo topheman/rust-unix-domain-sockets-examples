@@ -1,4 +1,3 @@
-use anyhow::Context;
 use std::io;
 use tokio::io::Interest;
 use tokio::net::UnixStream;
