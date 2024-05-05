@@ -7,3 +7,5 @@ edition = "2021"
 
 [dependencies]
 anyhow = "^1.0.42"
+tempfile = "3.10.1"
+tokio = { version = "1.37.0", features = ["full"] }
